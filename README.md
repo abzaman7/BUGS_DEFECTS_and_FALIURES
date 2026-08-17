@@ -209,7 +209,9 @@ The **Bug Life Cycle**, also known as the **Defect Life Cycle**, describes the d
 
 A typical flow looks like this:
 
-```text
+<p align="center"> <img src="https://raw.githubusercontent.com/abzaman7/BUGS_DEFECTS_and_FALIURES/main/imageye___-_imgi_15_bug-life-cycle-stages.png" alt="Bug Life Cycle Stages" width="800"> </p>
+
+<!--```text
           ┌─────────────┐
           │     New     │
           └──────┬──────┘
@@ -241,7 +243,7 @@ A typical flow looks like this:
           ┌─────────────┐
           │    Closed   │
           └─────────────┘
-```
+```-->
 
 Depending on the organization's workflow, a defect may also move into states such as:
 
