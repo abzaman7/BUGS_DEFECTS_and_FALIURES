@@ -255,6 +255,7 @@ Depending on the organization's workflow, a defect may also move into states suc
 * **Deferred**
 * **Won't Fix**
 * **Cannot Reproduce**
+* **Not a Bug**
 * **Reopened**
 
 The exact workflow may vary depending on the project's processes and defect management tool.
