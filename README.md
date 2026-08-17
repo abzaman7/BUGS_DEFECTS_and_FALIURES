@@ -208,6 +208,8 @@ Working with technologies, frameworks, tools, or platforms that the team is unfa
 The **Bug Life Cycle**, also known as the **Defect Life Cycle**, describes the different states a defect can go through from the moment it is identified until it is resolved and closed.
 
 A typical flow looks like this:
+</br>
+</br>
 
 <p align="left"> <img src="https://raw.githubusercontent.com/abzaman7/BUGS_DEFECTS_and_FALIURES/main/imageye___-_imgi_15_bug-life-cycle-stages.png" alt="Bug Life Cycle Stages" width="800"> </p>
 
@@ -244,6 +246,7 @@ A typical flow looks like this:
           │    Closed   │
           └─────────────┘
 ```-->
+</br>
 
 Depending on the organization's workflow, a defect may also move into states such as:
 
